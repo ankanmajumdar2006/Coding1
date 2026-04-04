@@ -1,4 +1,5 @@
 #include <iostream>
+// the new feature has been added succesfully
 using namespace std;
 int peakIndex(int arr[], int n) {
   int s = 0, e = n - 1;
