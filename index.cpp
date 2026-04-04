@@ -18,3 +18,4 @@ int main() {
   int peak = peakIndex(arr, 10);
   cout << "peak index is :" << peak << endl;
 }
+int clear(int arr[], int n) {}
